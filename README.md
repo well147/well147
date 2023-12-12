@@ -3,7 +3,7 @@
 <br>
 <h2>Reach Me!</h2>
 <a href="mailto:wellerson.alves.drumond@gmail.com">
-	<img img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=linkedin&logoColor=white">
+	<img img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/wellerson-alves-drumond-900aa0197/">
 	<img img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
